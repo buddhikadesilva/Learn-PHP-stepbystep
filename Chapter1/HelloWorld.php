@@ -12,6 +12,15 @@ and open the template in the editor.
     <body>
         <?php
       echo 'Hello World'; // this is how print hello world
+      
+      
+      echo '<br>----------------------------------<br>';
+      
+      
+      $x=5 + 15 -5; // you can use operator like that
+      echo $x;
+      
+      
         ?>
     </body>
 </html>
