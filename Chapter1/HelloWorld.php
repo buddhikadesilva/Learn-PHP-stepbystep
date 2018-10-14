@@ -20,6 +20,13 @@ and open the template in the editor.
       $x=5 + 15 -5; // you can use operator like that
       echo $x;
       
+      echo '<br>----------------------------------<br>';
+      
+      //some usefull functions
+      echo strlen("Hello world!");// outputs 12
+      echo '<br>';
+      echo str_word_count("Hello world!");//outputs 2
+      
       
         ?>
     </body>
